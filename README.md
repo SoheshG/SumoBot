@@ -9,7 +9,8 @@ SumoBot is an autonomous robot designed and programmed for competitive Sumo wres
 
 ---
 ## Photos
-![](./project3.png)
+Watch the demo video here:  
+[![Watch Demo](./project3.png)](./video1.mp4)
 ![](./gallery5.jpg)
 ![](./gallery6.jpg)
 
