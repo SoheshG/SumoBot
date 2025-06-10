@@ -8,6 +8,12 @@
 SumoBot is an autonomous robot designed and programmed for competitive Sumo wrestling events. It features real-time opponent tracking and obstacle avoidance to excel in aggressive, responsive movement on the arena.
 
 ---
+## Photos
+
+
+
+
+---
 
 ## ⚙️ Technical Highlights
 
@@ -27,11 +33,6 @@ SumoBot is an autonomous robot designed and programmed for competitive Sumo wres
 
 ---
 
-## 📺 Project Demo
-
-🎥 Watch the demo video here: [SumoBot - Robotex India 2024](https://youtube.com/your-video-link-here)
-
----
 
 ## 🛠️ Built With
 
